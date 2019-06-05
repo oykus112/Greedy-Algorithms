@@ -1,0 +1,18 @@
+PRIM
+Biology - History 12m
+Business - Engineering 5m
+History - Sociology 12m
+Business - Biology 7m
+Psychology - Business 2m
+History - Languages 9m
+Languages - Tourism 12m
+Psychology - Mathematics 8m
+Tourism - Theology 14m
+Total Length of the MST:81m
+
+KNAPSACK
+Psychology:1640
+History: 1200
+Engineering:580
+Sociology: 500
+Biology: 800
